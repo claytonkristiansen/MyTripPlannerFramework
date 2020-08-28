@@ -163,6 +163,11 @@
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="DataObjects\TodoItem.cs" />
     <Compile Include="DataObjects\Trip.cs" />
+    <Compile Include="Migrations\202008280243433_initial.cs" />
+    <Compile Include="Migrations\202008280243433_initial.designer.cs">
+      <DependentUpon>202008280243433_initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\MyTripPlannerFrameworkContext.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -181,6 +186,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\mytripplanner - Web Deploy.pubxml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202008280243433_initial.resx">
+      <DependentUpon>202008280243433_initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />

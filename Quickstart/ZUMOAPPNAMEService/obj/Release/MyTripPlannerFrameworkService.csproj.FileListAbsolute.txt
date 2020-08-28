@@ -116,3 +116,5 @@ C:\Users\Clayt\repos\MyTripPlannerFramework\Quickstart\ZUMOAPPNAMEService\obj\Re
 C:\Users\Clayt\repos\MyTripPlannerFramework\Quickstart\ZUMOAPPNAMEService\obj\Release\MyTripPlannerFrameworkService.csproj.CopyComplete
 C:\Users\Clayt\repos\MyTripPlannerFramework\Quickstart\ZUMOAPPNAMEService\obj\Release\MyTripPlannerFrameworkService.dll
 C:\Users\Clayt\repos\MyTripPlannerFramework\Quickstart\ZUMOAPPNAMEService\obj\Release\MyTripPlannerFrameworkService.pdb
+C:\Users\Clayt\repos\MyTripPlannerFramework\Quickstart\ZUMOAPPNAMEService\obj\Release\MyTripPlannerFrameworkService.Migrations.initial.resources
+C:\Users\Clayt\repos\MyTripPlannerFramework\Quickstart\ZUMOAPPNAMEService\obj\Release\MyTripPlannerFrameworkService.csproj.GenerateResource.cache
